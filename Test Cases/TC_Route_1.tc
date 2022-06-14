@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing route guard after logout</description>
+   <name>TC_Route_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa23ff10-6f33-494a-968a-c3d4cf6cb592</testCaseGuid>
+</TestCaseEntity>
